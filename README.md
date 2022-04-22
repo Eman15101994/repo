@@ -1,3 +1,3 @@
 **# EM School**
 
-[Image](img-html.html)
+![Image](img-html.html)
